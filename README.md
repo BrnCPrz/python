@@ -1,2 +1,2 @@
-# python
-Various Python scripts
+# Python
+A variaty of Python scripts
