@@ -1,5 +1,5 @@
 # Python
-A variety of Python scripts
+Here you find the following scripts:
 
 ### PedReord
   * An application of the Kahn's Algorithm to reorder pedigrees
