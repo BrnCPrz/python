@@ -6,4 +6,4 @@ Here you find the following scripts:
   * Uses network theory concepts
  
 ### aMatrix
-  * Builds a relationship Matrix from a pedigree
+  * Builds a relationship (A) Matrix from a pedigree
